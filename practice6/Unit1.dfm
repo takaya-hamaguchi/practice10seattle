@@ -1,0 +1,50 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 362
+  ClientWidth = 584
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object lbl_Title: TLabel
+    Left = 0
+    Top = 0
+    Width = 585
+    Height = 41
+    Alignment = taCenter
+    AutoSize = False
+    Caption = #35506#38988#65302
+    Color = clFuchsia
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+    Transparent = False
+    Layout = tlCenter
+  end
+  object txt_Test1: TEdit
+    Left = 30
+    Top = 70
+    Width = 200
+    Height = 21
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 235
+    Top = 70
+    Width = 100
+    Height = 40
+    Caption = #12486#12473#12488#65297
+    TabOrder = 1
+  end
+end
