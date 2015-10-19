@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/10/14 15:55:09.000.870,=C:\Users\t.hamaguchi\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/10/14 15:55:09.000.854,=C:\Users\t.hamaguchi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2015/10/14 15:55:18.000.397,C:\Users\t.hamaguchi\Documents\Embarcadero\Studio\Projects\practice4-3.cbproj=C:\Users\t.hamaguchi\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2015/10/14 15:55:18.000.351,C:\Users\t.hamaguchi\Documents\Embarcadero\Studio\Projects\practice4-3PCH1.h=C:\Users\t.hamaguchi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2015/10/14 15:55:27.000.115,C:\Project\Cpp10Seattle\practice\practice4-3\Unit1.cpp=C:\Users\t.hamaguchi\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/10/14 15:55:27.000.115,C:\Project\Cpp10Seattle\practice\practice4-3\Unit1.h=C:\Users\t.hamaguchi\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2015/10/14 15:55:27.000.115,C:\Project\Cpp10Seattle\practice\practice4-3\Unit1.dfm=C:\Users\t.hamaguchi\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2015/10/14 15:55:31.000.788,C:\Project\Cpp10Seattle\practice\practice4-3\practice4-3PCH1.h=C:\Users\t.hamaguchi\Documents\Embarcadero\Studio\Projects\practice4-3PCH1.h</Transaction>
+    <Transaction>2015/10/14 15:55:32.000.664,C:\Project\Cpp10Seattle\practice\practice4-3\practice4-3.cbproj=C:\Users\t.hamaguchi\Documents\Embarcadero\Studio\Projects\practice4-3.cbproj</Transaction>
+    <Transaction>2015/10/14 15:55:47.000.199,C:\Project\Cpp10Seattle\practice\practice4-3\Unit1.cpp=</Transaction>
+    <Transaction>2015/10/14 15:56:28.000.606,=C:\Project\Cpp10Seattle\practice\practice4-3\Unit1.cpp</Transaction>
+    <Transaction>2015/10/14 15:56:28.000.652,=C:\Project\Cpp10Seattle\practice\practice4-3\Unit1.dfm</Transaction>
+    <Transaction>2015/10/14 15:56:35.000.074,C:\Project\Cpp10Seattle\practice\practice4-3\Unit1.dfm=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="practice4-3.cpp"/>
+    <File Path="practice4-3PCH1.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+  </ProjectSortOrder>
+</BorlandProject>

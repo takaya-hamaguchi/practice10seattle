@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/10/02 18:17:29.766.cbproj,C:\Users\t.hamaguchi\Documents\RAD Studio\Projects\practice2.cbproj=C:\Users\t.hamaguchi\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2015/10/02 18:17:39.018.h,C:\Project\Cpp\test\practice2\Unit1.h=C:\Users\t.hamaguchi\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2015/10/02 18:17:39.018.dfm,C:\Project\Cpp\test\practice2\Unit1.dfm=C:\Users\t.hamaguchi\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2015/10/02 18:17:39.018.cpp,C:\Project\Cpp\test\practice2\Unit1.cpp=C:\Users\t.hamaguchi\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/10/02 18:17:59.549.cbproj,C:\Project\Cpp\test\practice2\practice2.cbproj=C:\Users\t.hamaguchi\Documents\RAD Studio\Projects\practice2.cbproj</Transaction>
+    <Transaction>2015/10/02 18:52:38.533.crp,C:\Users\t.hamaguchi\Desktop\practice2.crp=</Transaction>
+    <Transaction>2015/10/13 13:48:10.000.312,=C:\Work\作業内容\C++ Builder 10 seattle 移行調査\cpp10seattle\critical.h</Transaction>
+    <Transaction>2015/10/13 13:48:47.000.527,C:\Work\作業内容\C++ Builder 10 seattle 移行調査\cpp10seattle\critical.h=</Transaction>
+  </Transactions>
+</BorlandProject>
